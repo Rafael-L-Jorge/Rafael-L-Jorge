@@ -1,11 +1,19 @@
-# Olá, eu sou o Rafael Jorge!
+# Rafael Jorge – Analista de Dados & BI
 
-Atuo como Analista de Dados e BI, com foco em transformar dados em soluções que geram valor. Tenho experiência com Excel avançado, Power BI, SQL, Python, estatística e SSIS, além de estar explorando mais a fundo o universo da Ciência de Dados e do n8n.
+## Sobre mim
+Sou Analista de Dados e Business Intelligence, com foco em transformar dados em soluções estratégicas que geram valor real para o negócio.  
+Tenho formação em Administração, com especialização em Business Intelligence, e concluí recentemente o Master of Data Science & AI pela DataTech Florida.
 
-Sou formado em Administração, com especialização em Business Intelligence e concluí o Master of Data Science & AI na DataTech Florida.
+Antes de migrar para a área de dados, atuei por mais de 7 anos liderando equipes, gerenciando projetos, mapeando e otimizando processos.  
+Hoje, aplico esse background para conectar dados à tomada de decisão de forma prática, analítica e orientada a resultados.
 
-Antes de mergulhar de vez na área de dados, acumulei mais de 7 anos de experiência liderando equipes, gerenciando projetos, mapeando e otimizando processos, além de desenvolver e aplicar treinamentos. Hoje, uso esse background para conectar dados à tomada de decisão de forma prática e estratégica.
-
+## Habilidades Técnicas
+- Excel Avançado, Power BI  
+- Python 
+- Estatística aplicada e modelagem de dados  
+- SQL, SSIS  
+- n8n (automação de fluxos de dados)  
+- Storytelling com dados
 
 <div style="display: inline-block"> 
   <a href="https://www.linkedin.com/in/rafaelljorge" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
