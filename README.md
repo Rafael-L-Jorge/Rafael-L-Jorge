@@ -2,9 +2,9 @@
 
 ## Sobre mim
 Sou Analista de Dados e Business Intelligence, com foco em transformar dados em soluções estratégicas que geram valor real para o negócio.  
-Tenho formação em Administração, com especialização em Business Intelligence, e concluí recentemente o Master of Data Science & AI pela DataTech Florida.
+Tenho formação em Administração, com especialização em Business Intelligence, e concluí recentemente o Master of Data Science & AI, pela DataTech Florida.
 
-Antes de migrar para a área de dados, atuei por mais de 7 anos liderando equipes, gerenciando projetos, mapeando e otimizando processos.  
+Antes de migrar para a área de dados, atuei por mais de sete anos liderando equipes, gerenciando projetos, mapeando e otimizando processos.  
 Hoje, aplico esse background para conectar dados à tomada de decisão de forma prática, analítica e orientada a resultados.
 
 ## Habilidades Técnicas
