@@ -11,8 +11,7 @@ Hoje, aplico esse background para conectar dados à tomada de decisão de forma 
 - Excel Avançado, Power BI  
 - Python 
 - Estatística aplicada e modelagem de dados  
-- SQL, SSIS  
-- n8n (automação de fluxos de dados)  
+- SQL, SSIS    
 - Storytelling com dados
 
 <div style="display: inline-block"> 
