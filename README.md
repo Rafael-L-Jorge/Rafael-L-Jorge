@@ -8,7 +8,8 @@ Antes de migrar para a área de dados, atuei por mais de sete anos liderando equ
 Hoje, aplico esse background para conectar dados à tomada de decisão de forma prática, analítica e orientada a resultados.
 
 ## Habilidades Técnicas
-- Excel Avançado, Power BI  
+- Excel Avançado
+- Power BI, Power Automate e Power Apps
 - Python 
 - Estatística aplicada e modelagem de dados  
 - SQL, SSIS    
