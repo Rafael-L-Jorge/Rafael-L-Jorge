@@ -10,8 +10,8 @@ Minha formação inclui Administração com especialização em Business Intelli
 Antes de migrar para a área de dados, atuei por mais de 7 anos em liderança de equipes, mapeamento de processos e gestão de projetos. Hoje, conecto esse background à análise de dados, com entregas que unem visão técnica e pensamento estratégico.
 
 ## Habilidades Técnicas
-- Linguagens e Análise: Python · SQL · Estatística Aplicada · Testes de Hipóteses · Modelagem de Dados
-- Ferramentas: Power BI · Excel Avançado · Power Apps · Power Automate · SSIS
+- Linguagens e Análise: Python · SQL · Estatística · Testes de Hipóteses · Modelagem de Dados
+- Ferramentas: Power BI · Excel Avançado · Power Apps · SSIS
 - Visualização e Comunicação: Storytelling com Dados · Dashboards Interativos · Apresentações Gerenciais
 - Processos e Projetos: ETL · Green Belt · Metodologias Ágeis · Mapeamento de Processos
 
