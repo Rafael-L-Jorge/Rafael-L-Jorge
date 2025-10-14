@@ -10,11 +10,6 @@ Minha formação inclui Administração com especialização em Business Intelli
 Antes de migrar para a área de dados, atuei por mais de 7 anos em liderança de equipes, mapeamento de processos e gestão de projetos. Hoje, conecto esse background à análise de dados, com entregas que unem visão técnica e pensamento estratégico.
 
 ## Habilidades Técnicas
-- Linguagens e Análise: Python · SQL · Estatística · Testes de Hipóteses · Modelagem de Dados
-- Ferramentas: Power BI · Excel Avançado · Power Apps · SSIS
-- Visualização e Comunicação: Storytelling com Dados · Dashboards Interativos · Apresentações Gerenciais
-- Processos e Projetos: ETL · Green Belt · Metodologias Ágeis · Mapeamento de Processos
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -24,17 +19,21 @@ Antes de migrar para a área de dados, atuei por mais de 7 anos em liderança de
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4E9A06?style=for-the-badge&logo=R&logoColor=white)
+
+
+- Visualização e Comunicação: Storytelling com Dados · Dashboards Interativos · Apresentações Gerenciais
+- Processos e Projetos: ETL · Green Belt · Metodologias Ágeis · Mapeamento de Processos
+
+
 
 <div style="display: inline-block"> 
   <a href="https://www.linkedin.com/in/rafaelljorge" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
