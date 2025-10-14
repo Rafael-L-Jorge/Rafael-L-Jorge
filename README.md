@@ -30,7 +30,7 @@ Antes de migrar para a área de dados, atuei por mais de 7 anos em liderança de
 ![Statistics](https://img.shields.io/badge/Statistics-4E9A06?style=for-the-badge&logo=R&logoColor=white)
 
 
-## Comunicação
+## Contatos
 <div style="display: inline-block"> 
   <a href="https://www.linkedin.com/in/rafaelljorge" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:analisededadosrafaeljorge[at]gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
