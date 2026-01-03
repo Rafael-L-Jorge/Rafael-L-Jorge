@@ -1,22 +1,16 @@
 # Rafael Jorge – Analista de Dados & BI
 
 ## Sobre mim
-Sou Analista de Dados e BI com experiência em projetos de análise, modelagem, visualização e eficiência operacional. Tenho como foco transformar dados em soluções práticas, com impacto direto na tomada de decisão.
+Analista de Dados Pleno, com trajetória de mais de 7 anos em liderança de processos e equipes, desenvolvendo visão estratégica, foco em eficiência operacional e capacidade de conectar pessoas, tecnologia e negócios.
 
-Atuo com ferramentas como Python, SQL, Power BI, Excel, Power Apps e SSIS, aplicando estatística, testes de hipóteses, storytelling e automações para resolver problemas de negócio e otimizar processos.
+Atualmente, atuo em análise de dados e Business Intelligence, aplicando SQL, Power BI, Python e ETL no desenvolvimento de dashboards, relatórios e soluções analíticas que apoiam gestores na tomada de decisão e geram impacto real para o negócio.
 
-Minha formação inclui Administração com especialização em Business Intelligence e o Master of Data Science & AI pela DataTech Florida, onde aprofundei minha atuação em análise de dados, ETL, inteligência artificial aplicada e simulação de cenários.
+Minha formação inclui MBA em Business Intelligence, Master of Data Science & IA e certificação Lean Six Sigma Green Belt, que reforçam minha capacidade de unir raciocínio analítico e visão de processos para transformar dados em insights estratégicos.
 
-Antes de migrar para a área de dados, atuei por mais de 7 anos em liderança de equipes, mapeamento de processos e gestão de projetos. Hoje, conecto esse background à análise de dados, com entregas que unem visão técnica e pensamento estratégico.
+Meu diferencial está em combinar experiência em gestão e melhoria contínua com o domínio crescente das ferramentas de análise, apoiando empresas em sua jornada para a tomada de decisão orientada a dados.
 
 ## Habilidades Técnicas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
